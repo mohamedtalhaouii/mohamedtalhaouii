@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohamedtalhaouii@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/taalhaoui" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="taalhaoui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mohamedtalhaoui" height="30" width="40" /></a>
