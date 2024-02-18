@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtalhaouii&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtalhaouii" /> </p>
 
-- 🌱 | I’m currently learning **Python**
+- 🐍 I’m currently learning **Python**
 
-- 📝 | I regularly write articles on [mohamedtalhaoui.me](mohamedtalhaoui.me/blog)
+- 📝 I regularly write articles on [mohamedtalhaoui.me](mohamedtalhaoui.me/blog)
 
-- 📫 | How to reach me **mohamedtalhaouii@outlook.com**
+- 📨 How to reach me **mohamedtalhaouii@outlook.com**
 
 
 <hr>
