@@ -7,7 +7,7 @@
 
 - 🐍 I’m currently learning **Python**
 
-- 📝 I regularly write articles on https://medium.com/@mohamedtalhaoui
+- 📝 I regularly write articles on https://mohamedtalhaoui.me/blog
 
 - 📨 How to reach me **mohamedtalhaouii@outlook.com**
 
