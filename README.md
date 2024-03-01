@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtalhaouii&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtalhaouii" /> </p>
 
-- 🐍 I’m currently learning **Python**
+- 🐍 I’m currently learning **Python and JavaScript**
 
 - 📝 I regularly write articles on https://mohamedtalhaoui.me/blog
 
