@@ -33,7 +33,7 @@
 
 <hr>
 <h3 align="center">Support :</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtalhaoui" /></a><a href="patreon.com/mohamedtalhaouii"> <img align="centre" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/a8b43280-546d-4bda-836a-6957f5c0c01b" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br>
+<p align="center"><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtalhaoui" /></a><a href="https://patreon.com/mohamedtalhaouii"> <img align="centre" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/a8b43280-546d-4bda-836a-6957f5c0c01b" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br>
 
 <hr>
 
