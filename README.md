@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/f9182558-c95a-4899-adeb-39ed277ae4c8)<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Talhaoui!;" />
 </h1>
 <h3 align="center"> </h3>
@@ -32,7 +32,7 @@
 <hr>
 <h3 align="center">Support :</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br>
-<p><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="left" src="https://www.canva.com/design/DAF-TL9xAwc/skhTM_i6Dl8C96VwOsdNgw/view" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="left" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/a8b43280-546d-4bda-836a-6957f5c0c01b" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br><br>
 <hr>
 
 
