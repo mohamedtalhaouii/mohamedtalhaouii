@@ -28,7 +28,7 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,vscode,github,python,cpp&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,django,python,vscode,github,cpp&perline=8" />
 </div>
 
 <hr>
