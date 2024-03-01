@@ -32,6 +32,7 @@
 <hr>
 <h3 align="center">Support :</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="left" src="https://www.canva.com/design/DAF-TL9xAwc/skhTM_i6Dl8C96VwOsdNgw/view" height="50" width="210" alt="mohamedtalhaoui" /></a></p><br><br>
 <hr>
 
 
