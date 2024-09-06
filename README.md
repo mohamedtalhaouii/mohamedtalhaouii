@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on https://mohamedtalhaoui.me/blog
 
-- 📨 How to reach me **mohamedtalhaouii@outlook.com**
+- 📨 How to reach me **mohamedtalhaaoui@gmail.com**
 
 
 <hr>
