@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently learning **Python, C and JavaScript**
 
-- 📝 I regularly write articles on https://mohamedtalhaoui.me/blog
+- 📝 Let's Connect on LinkedIn : <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">@mohamedtalhaoui</a>
 
 - 📨 How to reach me **mohamedtalhaaoui@gmail.com**
 
