@@ -7,7 +7,7 @@
 
 - 🫱🏻‍🫲🏻 Let's Connect on LinkedIn : <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">@mohamedtalhaoui</a>
 
-- 📨 How to reach me **t4lhawi@gmail.com**
+- 📨 How to reach me : **t4lhawi@gmail.com**
 
 
 <h1>
