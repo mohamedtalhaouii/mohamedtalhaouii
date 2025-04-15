@@ -27,7 +27,7 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,python,bash,linux,ubuntu,vscode,github,notion,docker,md,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,py,bash,linux,ubuntu,vscode,github,git,notion,docker,md,mysql&perline=6&theme=light" />
 </div>
 
 
@@ -35,7 +35,9 @@
 
 
 <h3 align="center">Support :</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtalhaoui" /></a><a href="https://patreon.com/mohamedtalhaouii"> <img align="centre" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/19076b0e-4dda-4e6b-8ea5-d247b554f6f7" height="50" width="210" alt="mohamedtalhaoui"/></a></p><br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/mohamedtalhaoui"> <img align="centre" src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' height="50" width="210" alt="mohamedtalhaoui"/></a>
+<!-- <a href="https://patreon.com/mohamedtalhaouii"> <img align="centre" src="https://github.com/mohamedtalhaouii/mohamedtalhaouii/assets/144726758/19076b0e-4dda-4e6b-8ea5-d247b554f6f7" height="50" width="210" alt="mohamedtalhaoui"/></a></p><br> -->
 
 
 <h1>
