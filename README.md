@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtalhaouii&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtalhaouii" /> </p>
 
-- 👨🏻‍💻 I’m currently learning **JavaScript**
+- 👨🏻‍💻 | I’m currently learning **JavaScript**
 
-- 🫱🏻‍🫲🏻 Let's Connect on LinkedIn : <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">@mohamedtalhaoui</a>
+- 🫱🏻‍🫲🏻 | Let's Connect on LinkedIn : <a href="https://linkedin.com/in/mohamedtalhaoui" target="_blank">@mohamedtalhaoui</a>
 
-- 📨 How to reach me : **t4lhawi@gmail.com**
+- 📨 | How to reach me : **t4lhawi@gmail.com**
 
 
 <h1>
